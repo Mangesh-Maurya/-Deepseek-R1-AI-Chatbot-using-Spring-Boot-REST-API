@@ -63,7 +63,7 @@ sh
 Copy
 Edit
 curl -X GET "http://localhost:8083/api/v1/ai?query=Hello Deepseek"
-Expected Response:
+Expected Response:  Hello! How can I assist you today? 😊
 
 json
 Copy
