@@ -69,7 +69,7 @@ json
 Copy
 Edit
 {
-    "response": "Cricket is a sport played between two teams of eleven players..."
+    "response": "Hello Deepseek"
 }
 🛠 Troubleshooting
 🔹 Error: model "mistral" not found
@@ -83,3 +83,10 @@ Contributions are welcome! Feel free to fork this repo and submit PRs.
 
 📜 License
 This project is open-source and available under the MIT License.
+
+![Screenshot (112)](https://github.com/user-attachments/assets/0c71de1d-f996-4800-858a-2e0733ad5900)
+![Screenshot (113)](https://github.com/user-attachments/assets/1445d813-a561-4097-b7dc-c012678746f5)
+![Screenshot (115)](https://github.com/user-attachments/assets/49714fe0-4cdf-453a-84b6-5bb523ad2bb8)
+![Screenshot (116)](https://github.com/user-attachments/assets/40eb98e4-26ad-498a-89fd-c3940394b8da)
+![Screenshot (117)](https://github.com/user-attachments/assets/a1fcf109-17ba-4e40-a7c7-762c36c12be4)
+![Screenshot (111)](https://github.com/user-attachments/assets/1e908e4c-5f2b-4ad9-b9c3-fbed200d8bdc)
